@@ -1,6 +1,6 @@
 # EMATM0053: Robotic Systems
 
-<img src="https://github.com/paulodowd/EMATM0053_20_21/blob/master/images/banner4.JPG?raw=true"/>
+<img src="https://github.com/paulodowd/EMATM0053_20_21/blob/main/images/banner4.JPG?raw=true"/>
 <br><br>
 
 ## Contents
@@ -32,18 +32,18 @@ The aim of this unit is to give you a "complete" experience of running a scienti
 <br><br>
 ## Coursework Materials
 
-<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Specifications/Coursework%20Specification.ipynb">Coursework Specification</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Specifications/Map_Specification.ipynb">Map Specification</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Specifications/Code%20Standard.ipynb">Code Standard</a>
+<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Specifications/Coursework%20Specification.ipynb">Coursework Specification</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Specifications/Map_Specification.ipynb">Map Specification</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Specifications/Code%20Standard.ipynb">Code Standard</a>
 <br>Code Stub for Romi&nbsp;<a href="https://github.com/paulodowd/EMATM0053_20_21/tree/master/Romi_CodeStub">(source)</a>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0053_20_21/raw/master/Zips/Romi_CodeStub.zip">(zip file)</a>
 <br><a href="https://github.com/paulodowd/EMATM0053_20_21#core-labsheets">Core Labsheets</a>
 <br><a href="https://github.com/paulodowd/EMATM0053_20_21#supplementary-labsheets">Supplementary Labsheets</a>
 <br><a href="https://youtu.be/1KSfrGdXLC4">Assessment 1: Video Example</a>
 <br><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVG-VYf_NwHsJJlDfANaYLGz1UOFZIUE9OTUs5S1A1Wk83VTAyMUI1TzBYUy4u">Assessment 1: Online self-assessment declaration</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Specifications/AS2_ExperimentIdeas.ipynb">Assessment 2: Experiment Ideas</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Specifications/AS2_ExperimentIdeas.ipynb">Assessment 2: Experiment Ideas</a>
 
 <br>
-<img src="https://github.com/paulodowd/EMATM0053_20_21/blob/master/images/banner1.JPG?raw=true"/>
+<img src="https://github.com/paulodowd/EMATM0053_20_21/blob/main/images/banner1.JPG?raw=true"/>
 <br>
 
 ## Core Labsheets
@@ -54,32 +54,32 @@ These labsheets present exercises for you to develop skill with the robotic syst
 
 It is advised that you first read through all labsheets before you begin working with them.  
 
-<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L0_Troubleshooting.ipynb">Labsheet 0: Troubleshooting</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L1_MeetTheRomi.ipynb">Labsheet 1: Meet the Romi</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L2_MultiTaskingWithMillis.ipynb">Labsheet 2: Multi-tasking with Millis()</a>
-<br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/C0_Debugging.ipynb">Check Point 0: Debugging</a>
+<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L0_Troubleshooting.ipynb">Labsheet 0: Troubleshooting</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L1_MeetTheRomi.ipynb">Labsheet 1: Meet the Romi</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L2_MultiTaskingWithMillis.ipynb">Labsheet 2: Multi-tasking with Millis()</a>
+<br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/C0_Debugging.ipynb">Check Point 0: Debugging</a>
 <br>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L3_Motors.ipynb">Labsheet 3: Motors</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L4_Linefollowing.ipynb">Labsheet 4: Line Following</a>
-<br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/C1_Refactoring.ipynb">Check Point 1: Refactoring Code</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L3_Motors.ipynb">Labsheet 3: Motors</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L4_Linefollowing.ipynb">Labsheet 4: Line Following</a>
+<br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/C1_Refactoring.ipynb">Check Point 1: Refactoring Code</a>
 <br>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L5_Encoders.ipynb">Labsheet 5: Encoders</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L6_TimeAndSpeedEstimation.ipynb">Labsheet 6: Time and Speed Estimation</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L7_PID.ipynb">Labsheet 7: PID</a>
-<br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/C2_ThinkingClearly.ipynb">Check Point 2: Thinking Clearly</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L5_Encoders.ipynb">Labsheet 5: Encoders</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L6_TimeAndSpeedEstimation.ipynb">Labsheet 6: Time and Speed Estimation</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L7_PID.ipynb">Labsheet 7: PID</a>
+<br>&nbsp;&nbsp;<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/C2_ThinkingClearly.ipynb">Check Point 2: Thinking Clearly</a>
 <br>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L8_Kinematics.ipynb">Labsheet 8: Kinematics</a>
-<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Core/L9_FiniteStateMachine.ipynb">Labsheet 9: Finite State Machine</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L8_Kinematics.ipynb">Labsheet 8: Kinematics</a>
+<br><a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Core/L9_FiniteStateMachine.ipynb">Labsheet 9: Finite State Machine</a>
 
 
 ## Supplementary Labsheets
 
 The following labsheets provide further information on using other peripheral avaiable on your Romi.  You should not need the supplementary labsheets to complete Assessment 1 to a high standard.  These labsheets may be beneficial for Assessment 2, depending on the experiment your group decides to design.
 
-<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Supplementary/SL0_MeasuringBatteryVoltage.ipynb">S. Labsheet 0: Measuring Battery Voltage</a><br>
-<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Supplementary/SL1_InterruptsAndTimers.ipynb">S. Labsheet 1: Interrupts and Timers</a><br>
-<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Supplementary/SL2_ProximitySensor.ipynb">S. Labsheet 2: Proximity and Ambient Light</a><br>
-<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/master/Labsheets/Supplementary/SL3_InertialSensors.ipynb">S. Labsheet 3: Inertial Sensors and Magnetometer</a><br>
+<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Supplementary/SL0_MeasuringBatteryVoltage.ipynb">S. Labsheet 0: Measuring Battery Voltage</a><br>
+<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Supplementary/SL1_InterruptsAndTimers.ipynb">S. Labsheet 1: Interrupts and Timers</a><br>
+<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Supplementary/SL2_ProximitySensor.ipynb">S. Labsheet 2: Proximity and Ambient Light</a><br>
+<a href="https://github.com/paulodowd/EMATM0053_20_21/blob/main/Labsheets/Supplementary/SL3_InertialSensors.ipynb">S. Labsheet 3: Inertial Sensors and Magnetometer</a><br>
 
 <br><br>
 ## Useful External Resources
@@ -104,6 +104,6 @@ The following resources are mentioned through the labsheets and it may be quicke
 These materials were originally developed and tested by both Dr. Martin Garrad and Dr. Paul O'Dowd in 2018.  The materials have been iteratively updated by Paul in the years since.  We are grateful for the valuable feedback from students and teaching assistants.  We have typically provisioned and delivered this unit of study to 160 simultaneous students - this wouldn't be possible without a great team and community.  We are grateful to: the support, valuable input and critique from Prof. Arthur Richards & Prof. Seth Bullock; the support from school manager Evan Roberts; the always patient and friendly support of administrator Ann Foster; the patience of Emma Giddings in timetabling; support from the faculty of engineering technical services, including Jude Bramton, Dominic Hardman, Daryl White and Christopher Cooper.  Apologies to anyone I may have missed! (email me!)
 
 <br>
-<img src="https://github.com/paulodowd/EMATM0053_20_21/blob/master/images/banner2.JPG?raw=true"/>
+<img src="https://github.com/paulodowd/EMATM0053_20_21/blob/main/images/banner2.JPG?raw=true"/>
 <br>
 <a href="https://github.com/paulodowd/EMATM0053_20_21#EMATM0053-robotic-systems">(back to top)</a>
